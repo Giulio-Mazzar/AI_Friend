@@ -20,7 +20,7 @@ This project is able to solve, for instance, the problem of the solitude, in fac
 The chatbot can offer a large range of discussion and as the time goes on, it will also learn which kind of people is his owner, with this, the bot is supposed to assume the correct behavior in order to improve his speech skills with the people. This bot is made for everyone that want to confide themself with someone care.
 
 The chatbot will be able to:
-* Listen and talk with the person (device's owner);
+* Listen and talk with the person;
 * Learn which kind of person is; 
 * Answer specific question (about social behavior, usefull tips, fun fact, wheather outside, calendar, etc...).
 
@@ -28,28 +28,21 @@ It can be used in textual mode (that is seems like a conversation with someone) 
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+For this project we'll need the necessary amount of data in order to program a correct algorithm of:
+
+* Speech recognition;
+* Natural Lenguage Processing;
+* Learn from the owner;
+* etc... .
+
+We should take the data from famous online database that is also open source and up to date about this argument.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Of course as every project it has is own limitations. For instance, he is not able to do a lot of stuff (create an article, playing gamens,...). 
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The next step in order to maximise this bot is to create a robotic structure, in this way, we must also implement the movement and a lot of stuff that is linked to it (equilibrium, image recognition, space movement perception,...)
 
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
