@@ -1,51 +1,30 @@
 
-# Project Title
+# A Chatbot As a Friend
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+This project is made for everyone that want to have a personal computer as a friend. The idea behind this project is to create a chatbot that is up to date with the new algorithm techniques. 
+
+
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+This project is able to solve, for instance, the problem of the solitude, in fact, everyone that need someone with which talk can trust the bot that is always available (7 days at week & 24 hours a day).
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The chatbot can offer a large range of discussion and as the time goes on, it will also learn which kind of people is his owner, with this, the bot is supposed to assume the correct behavior in order to improve his speech skills with the people. This bot is made for everyone that want to confide themself with someone care.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+The chatbot will be able to:
+* Listen and talk with the person (device's owner);
+* Learn which kind of person is; 
+* Answer specific question (about social behavior, usefull tips, fun fact, wheather outside, calendar, etc...).
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+It can be used in textual mode (that is seems like a conversation with someone) or in speech mode (that is more like a phone call).
 
 
 ## Data sources and AI methods
